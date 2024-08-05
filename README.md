@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é black-sea
+Meu nome é blue-sea
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 
