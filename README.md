@@ -6,3 +6,4 @@ Meu nome é black-sea
 
 - Estou me desenvolvendo na linguagem JavaScript
 
+- Utilizo esse espaço para minha organização e compartilhar dos meus projetos desenvolvidos
